@@ -1,0 +1,55 @@
+<!-- File created by the Android Action Bar Style Generator
+
+     Copyright (C) 2012 readyState Software Ltd
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    <color name="photo_placeholder">#ccc</color>
+
+    <color name="theme_primary">#04561A</color>
+    <color name="theme_primary_dark">#04561A</color>
+    <color name="theme_accent">#04561A</color>
+    <color name="ltgray">#ffe0e0e0</color>
+
+
+    <color name="colorPrimary">@color/red</color>
+    <color name="colorPrimaryDark">@color/dark_red</color>
+    <color name="colorAccent">@color/amber</color>
+
+    <color name="red">#F44336</color>
+    <color name="dark_red">#C3352B</color>
+    <color name="soothing_blue">#0083BF</color>
+    <color name="dark_blue">#005A8A</color>
+    <color name="pink">#EB1460</color>
+    <color name="purple">#9C1AB1</color>
+    <color name="deep_purple">#6633B9</color>
+    <color name="indigo">#3D4DB7</color>
+    <color name="blue">#1093F5</color>
+    <color name="light_blue">#00A6F6</color>
+    <color name="cyan">#00BBD5</color>
+    <color name="teal">#009687</color>
+    <color name="green">#46AF4A</color>
+    <color name="light_green">#88C440</color>
+    <color name="lime">#CCDD1E</color>
+    <color name="yellow">#FFEC16</color>
+    <color name="amber">#FFC100</color>
+    <color name="orange">#FF9800</color>
+    <color name="deep_orange">#FF5505</color>
+    <color name="brown">#7A5547</color>
+    <color name="grey">#9D9D9D</color>
+    <color name="dark_grey">#757575</color>
+    <color name="blue_grey">#5E7C8B</color>
+
+</resources>
